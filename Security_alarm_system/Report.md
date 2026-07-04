@@ -17,5 +17,6 @@ To design and build an Arduino_based security alarm system using an Ultrasonic s
 
 ### BUZZER
  POSITIVE (+) - Arduino Digital Pin 2
+ 
  NEGATIVE (-) - GND
 

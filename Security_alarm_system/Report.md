@@ -1,4 +1,5 @@
-Security Alaarm System Report
+# Security Alarm System Report
+
 ## 1.AIM
 To design and build an Arduino_based security alarm system using an Ultrasonic sensor.
 

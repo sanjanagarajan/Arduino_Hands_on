@@ -14,10 +14,15 @@ To design and implement a Dinosaur Runner Game using an Arduino board and a 16×
 ## CIRCUIT CONNECTIONS
 
  VCC - 5V
+ 
  GND - GND
+ 
  SDA - A4
+ 
  SCL - A5
+ 
 Push Button - D5
+
 Push Button (Other Terminal)-  GND
 Buzzer Positive (+) - D7
 Buzzer Negative (−) -GND
